@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\helpers\\sqlitedatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\helpers\\sqlitedatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\views\\listaprodutos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\views\\listaprodutos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\views\\listaprodutos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\views\\listaprodutos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\views\\cadastroproduto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\views\\cadastroproduto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappminhascompras\\mauiappminhascompras\\views\\cadastroproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEFD9A2F-91F2-FDEF-7268-A640538E0082}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\views\\cadastroproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\App.xaml",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\App.xaml",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\App.xaml",
+              "RelativeToolTip": "MauiAppMinhasCompras\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T21:06:26.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\MainPage.xaml",
+              "RelativeToolTip": "MauiAppMinhasCompras\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T21:04:02.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiAppMinhasCompras\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:03:57.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\AppShell.xaml.cs",
+              "RelativeToolTip": "MauiAppMinhasCompras\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:03:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastroProduto.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\CadastroProduto.xaml",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Views\\CadastroProduto.xaml",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\CadastroProduto.xaml",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Views\\CadastroProduto.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T12:36:58.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\App.xaml.cs",
+              "RelativeToolTip": "MauiAppMinhasCompras\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:53:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLiteDatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:06:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadastroProduto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\CadastroProduto.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Views\\CadastroProduto.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\CadastroProduto.xaml.cs",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Views\\CadastroProduto.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:38:28.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\AppShell.xaml",
+              "RelativeToolTip": "MauiAppMinhasCompras\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T13:22:15.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListaProdutos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\ListaProdutos.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Views\\ListaProdutos.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\ListaProdutos.xaml.cs",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Views\\ListaProdutos.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:19:44.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaProdutos.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\ListaProdutos.xaml",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Views\\ListaProdutos.xaml",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\ListaProdutos.xaml",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Views\\ListaProdutos.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T13:16:10.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
