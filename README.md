@@ -1,6 +1,6 @@
 # MauiAppMinhasCompras
 
-Aplicativo desenvolvido em **.NET MAUI** para a disciplina de Desenvolvimento Mobile da FATEC Jahu. É um gerenciador de "lista de compras", onde o usuário cadastra produtos com quantidade e preço, podendo consultar, buscar, somar e remover itens, com persistência local em banco de dados **SQLite**.
+Aplicativo desenvolvido em **.NET MAUI** para a disciplina de Programação para Dispositivos Móveis II da FATEC Jahu. É um gerenciador de "lista de compras", onde o usuário cadastra produtos com quantidade e preço, podendo consultar, buscar, somar e remover itens, com persistência local em banco de dados **SQLite**.
 
 ## Funcionamento do App
 
